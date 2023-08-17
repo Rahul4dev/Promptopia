@@ -18,12 +18,12 @@ You can start editing the page by fork and modifying `app/page.js`. The page aut
 
 ## todo:
 
-[] Implement Search Functionality
+[] Implement Search Functionality - Search by prompt content - Search by tag - Search by username
 [] Implement Click on Tags
 [] Implement view other profiles
 
-You can check out [This Project GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [This Project GitHub repository](https://github.com/Rahul4dev/Promptopia) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://promptopia-project-alkj8otp4-rahul4dev.vercel.app/) from the creators of Next.js.
